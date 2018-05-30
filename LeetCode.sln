@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "twosum", "twosum\twosum.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3sum", "3sum\3sum.vcxproj", "{6F46C7A6-283A-45FF-A330-ED3781A3C435}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "guesstheword", "guesstheword\guesstheword.vcxproj", "{58626891-8779-4E5E-875C-6C0A7A6EC7BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,8 +33,19 @@ Global
 		{6F46C7A6-283A-45FF-A330-ED3781A3C435}.Release|x64.Build.0 = Release|x64
 		{6F46C7A6-283A-45FF-A330-ED3781A3C435}.Release|x86.ActiveCfg = Release|Win32
 		{6F46C7A6-283A-45FF-A330-ED3781A3C435}.Release|x86.Build.0 = Release|Win32
+		{58626891-8779-4E5E-875C-6C0A7A6EC7BD}.Debug|x64.ActiveCfg = Debug|x64
+		{58626891-8779-4E5E-875C-6C0A7A6EC7BD}.Debug|x64.Build.0 = Debug|x64
+		{58626891-8779-4E5E-875C-6C0A7A6EC7BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{58626891-8779-4E5E-875C-6C0A7A6EC7BD}.Debug|x86.Build.0 = Debug|Win32
+		{58626891-8779-4E5E-875C-6C0A7A6EC7BD}.Release|x64.ActiveCfg = Release|x64
+		{58626891-8779-4E5E-875C-6C0A7A6EC7BD}.Release|x64.Build.0 = Release|x64
+		{58626891-8779-4E5E-875C-6C0A7A6EC7BD}.Release|x86.ActiveCfg = Release|Win32
+		{58626891-8779-4E5E-875C-6C0A7A6EC7BD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35AD92E0-137A-4B6B-A2C3-92C16C4E6DA4}
 	EndGlobalSection
 EndGlobal
